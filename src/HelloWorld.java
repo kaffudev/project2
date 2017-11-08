@@ -9,5 +9,8 @@ public class HelloWorld {
 
         System.out.println("Trzecia zmiana");
 
+
+        System.out.println( "moja jeszcze jedna zmiana");
+
     }
 }
