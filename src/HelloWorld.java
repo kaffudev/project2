@@ -13,6 +13,6 @@ public class HelloWorld {
         System.out.println( "moja jeszcze jedna zmiana");
 
         System.out.println("moja piata zmiana");
-
+        System.out.println(" moja 6 amianaa");
     }
 }
